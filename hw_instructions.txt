@@ -1,0 +1,19 @@
+Project 1 Email Campaign
+
+  * Add a two column component to your email with some new content.
+  * Add a three column component to your email with some new content.
+  * Add responsiveness to your multi-column layout
+    - Make the columns stack on mobile
+    - Adjust text size also.
+  * Add Interactivity to button(s) and link(s)
+  * Add animation using keyframes. (use properties other than opacity and scale)
+  * Apply the checked box technique to add some more interactivity to your email
+    - Use radio buttons, labels, and divs
+  * Test out some of the resource tools introduced.
+    - Test your email campaign on different clients.
+    - Interact with it and see how they work in those different email clients. Take screen shots
+    - Make notes of what worked and what didn't based on the client.
+    - Report your findings on a separate file (.pdf format) add it to an assets folder in your repo.
+  * If needed revise content to set up your own email campaign.
+* Submit your new github repo link.
+  - Add a readme file. In it put the link of your github pages site.
